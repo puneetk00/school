@@ -1,0 +1,2 @@
+admin/url/use_custom_path 1
+admin/url/custom_path adminurl
