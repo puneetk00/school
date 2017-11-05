@@ -9,4 +9,6 @@ $period = new DatePeriod($begin, $interval, $end);
 foreach ( $period as $dt )
   echo $dt->format( "Y-m-d H:i:s\n" ) . "<br>";
 
+echo "puneet";
+
   ?>
